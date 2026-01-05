@@ -7,5 +7,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::post('/chat/room', [ChatAppController::class,'chatroom'])->name('chatroom');
-
 Route::post('/fire/message', [ChatAppController::class,'fireMessage'])->name('sent.message');
