@@ -10,6 +10,7 @@ Laravel Reverb brings real-time messaging to life. As Laravel’s official WebSo
 
 ## 🛠️ Tech Stack
 
+
 ### Backend:
 
 - Laravel 12.x 🏗️
